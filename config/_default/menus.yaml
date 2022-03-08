@@ -7,6 +7,19 @@ main:
   - name: Home
     url: /
     weight: 10
-  - name: Documentation
-    url: docs/
+  # - name: Documentation
+  #   url: docs/
+  #   weight: 20
+  # - name: Event
+  #   url: event/
+  #   weight: 20
+  - name: AWS notes
+    url: aws-notes/
     weight: 20
+  - name: Arista notes
+    url: arista-notes/
+    weight: 30  
+
+
+
+

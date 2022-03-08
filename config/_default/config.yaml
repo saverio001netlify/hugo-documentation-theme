@@ -3,9 +3,8 @@
 # Hugo Documentation: https://gohugo.io/getting-started/configuration/#all-configuration-settings
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
-title: 'My Project' # Website name
-baseURL: 'https://example.com/' # Website URL
-
+title: 'www.net17.link' # Website name
+baseURL: 'https://www.net17.link/' # Website URL
 ############################
 ## PAGE OPTIONS
 ############################
@@ -78,3 +77,5 @@ security:
   _merge: deep
 sitemap:
   _merge: deep
+local_backend: true
+
